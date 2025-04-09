@@ -1,0 +1,5 @@
+Name,URL,Remote,Adaptive,Duration,Type
+Java Developer Test,https://shl.com/test/java-dev,Yes,Yes,40,Technical
+Python-SQL-JS Test,https://shl.com/test/python-sql-js,Yes,Yes,60,Technical
+Cognitive Test,https://shl.com/test/cognitive,Yes,No,30,Cognitive
+Personality Test,https://shl.com/test/personality,Yes,No,45,Personality
